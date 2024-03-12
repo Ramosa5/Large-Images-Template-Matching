@@ -31,10 +31,10 @@ Sample pixels are taken from the template and a match in color between image and
 ## Outputs
 A few examples of outputs computed. On each photo there are two templates to be found.
 
-![alt text](outputs/output_bodo.png)
-![alt text](outputs/output_ny.png)
+![Bodo](outputs/output_bodo.png)
+![New York](outputs/output_ny.png)
 
 A thing to notice is bounding boxes are not always accurate depending on size of the template put on an image.
 
-![alt text](outputs/output_rio.png)
-![alt text](outputs/output_budapest.png)
+![Rio](outputs/output_rio.png)
+![Budapest](outputs/output_budapest.png)
